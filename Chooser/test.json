@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Schweinchen",
+        "complexity": "Short",
+        "description": "* Gespielt wird mit einem normalen (sechsseitigen) W\u00fcrfel. Ziel des Spieles ist es, als Erstes 100 Punkte zu erreichen.\n* Es wird reihum gew\u00fcrfelt.\n* Ist ein Spieler an der Reihe, w\u00fcrfelt der mindestens einmal. Augenzahlen von 2\u20136 werden in dieser Runde gutgeschrieben und der Spieler hat die Option, noch einen Wurfversuch hinzuzuf\u00fcgen.\n* W\u00fcrfelt der Spieler jedoch eine 1, verfallen s\u00e4mtliche  Punkte der Runde und der n\u00e4chste Spieler ist an der Reihe.",
+        "worker": []
+    },
+    {
+        "title": "Einkaufsliste",
+        "complexity": "Short",
+        "description": "* Verschiedene Lebensmittel sollen in einer Liste aufgelistet werden. \n* Jedes Lebensmittel soll einen festen Preis haben.\n* Per Console soll man angeben k\u00f6nnen, welches Lebensmittel man schon gekauft hat.",
+        "worker": []
+    },
+    {
+        "title": "Quiz",
+        "complexity": "Short",
+        "description": "* Eine Frage wird angezeigt und der Spieler hat vier verschiedene\n\n* Antwortm\u00f6glichkeiten. Player muss 7 Fragen beantworten damit diese/r das Spiel gewinenn kann.\n\n* Es gibt ein Joker, der zwei Antworten l\u00f6scht",
+        "worker": []
+    },
+    {
+        "title": "Taschenrechner",
+        "complexity": "Short",
+        "description": "Aufgabe ist es, einen Taschenrechner mit Mul, Add, Sub und Div einzubauen.",
+        "worker": []
+    },
+    {
+        "title": "Timer",
+        "complexity": "Short",
+        "description": "Es kann eine Zeit eingestellt werden, die hochz\u00e4hlt und wenn die Zeit erreicht wird soll dies angezeigt werden. Es kann am Anfang ausgesucht werden, ob man runter oder hoch z\u00e4hlt.",
+        "worker": []
+    },
+    {
+        "title": "Formelrechner",
+        "complexity": "Short",
+        "description": "Man soll sich eine Formel aussuchen k\u00f6nnen (Bespiel Fl\u00e4cheninhalt von einem Quadrat) und muss dementsprechend die Parameter in die Konsole eingeben.",
+        "worker": []
+    },
+    {
+        "title": "Schere Stein Papier",
+        "complexity": "Short",
+        "description": "Wie der Name sagt. Lets go! Gegen den Computer!",
+        "worker": []
+    },
+    {
+        "title": "Erinnerung Terminkalendar",
+        "complexity": "Short",
+        "description": "Immer vergisst man wichtige Termine. Ein Kalendar muss her. Aber nicht irgendeiner. Schreib eine Ausgabe, die dir immer den n\u00e4chste Termin ausgibt. Du kannst auch verschiedene Einstellungen hinzuf\u00fcgen wie zum Beispiel Zeig mir den n\u00e4chsten Geburtstag oder zeig mir den n\u00e4chsten Arzt Termin. (Labels)",
+        "worker": []
+    },
+    {
+        "title": "Wort Suchen aka Hangman",
+        "complexity": "Short",
+        "description": "Es wird Zeit, dass wir W\u00f6rter suchen. Deine Aufgabe ist es, dass ein Wort eingegeben werden kann und jemand anderes muss dann raten wie dieses Wort hei\u00dft. Dabei darf die Person nur einen Buchstaben sagen. Wenn die Person 5 mal einen Buchstaben sagt, der nicht eine Teilmenge des Wortes ist, hat die Person verloren.",
+        "worker": []
+    },
+    {
+        "title": "Bank Applikation",
+        "complexity": "Short",
+        "description": "Programmierer eine Bank, bei der du Geld abbuchen und einzahlen kannst. \n\n* Verschiedene Kunden sollen auf das Konto Geld einzahlen k\u00f6nnen. \n\n* Es soll daf\u00fcr eine \u00dcbersicht geben, welche Kunden wieviel eingezahlt haben.",
+        "worker": []
+    },
+    {
+        "title": "Pokemon Kampf",
+        "complexity": "Short",
+        "description": "* Es sollen bis zu drei Pokemon existieren, die jeweils unterschiedlichen Leben und Attacken haben die unterschiedlichen Schaden machen\n\n* Player soll sich ein Pokemon aussuchen und kann gegen ein anderes Pokemon k\u00e4mpfen. \n\n* Rundenbasiertes K\u00e4mpfen. Player w\u00e4hlt eine von 4 Attacken aus und dementsprechend bekommt das anderen Pokemon schaden.",
+        "worker": []
+    },
+    {
+        "title": "Die Kundenverwaltung",
+        "complexity": "Short",
+        "description": "Schreibe ein Programm, wo du Kunden speichern kannst.\n\nEin Kunde hat immer folgende Daten:\n\n* Vorname\n* Nachname\n* Geburtsdatum\n* Addresse\n* Zust\u00e4ndiger\n\n* Das Programm soll allen Kunden verschiedene Weihnachtskarten schicken abh\u00e4ngig von der Zust\u00e4ndigen Person.\n\n* Die Personen, die Herr Meier betreut sollen eine Weihnachtskarte aus \u00d6sterreich bekommen und die von Herr Steinmeier betreut werden aus Frankreich.",
+        "worker": []
+    },
+    {
+        "title": "B\u00fcrger Restaurant",
+        "complexity": "Short",
+        "description": "Das Programm soll die M\u00f6glichkeit geben, den B\u00fcrger auf unterschiedliche Arten zu belegen. Jede Beilage hat bestimmte Kosten und am Ende muss ein Gesamtbeitrag bestehen.\n\n* B\u00fcrger sollen am Ende nat\u00fcrlich auch alle einen Namen bekommen",
+        "worker": []
+    },
+    {
+        "title": "Textadventure",
+        "complexity": "Short",
+        "description": "Sei Kreativ und mach ein kleines Text Adventure.",
+        "worker": []
+    }
+]
